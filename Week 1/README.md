@@ -1,1 +1,3 @@
 [Video Link](https://www.youtube.com/watch?v=aircAruvnKk)
+ [Pytorch crash course ](https://www.youtube.com/watch?v=OIenNRt2bjg)
+   [Basic neural network model with Pytorch]( https://www.youtube.com/watch?v=JHWqWIoac2I)
