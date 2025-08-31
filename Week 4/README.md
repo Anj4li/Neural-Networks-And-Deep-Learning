@@ -1,1 +1,1 @@
-[Lecture Video on Backpropagation] https://www.youtube.com/watch?v=FglxznJkGPA
+[ Backpropagation] https://www.youtube.com/watch?v=FglxznJkGPA
